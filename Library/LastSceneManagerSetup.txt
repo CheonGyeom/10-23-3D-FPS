@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Chap10/Scenes/SimpleFPS.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
